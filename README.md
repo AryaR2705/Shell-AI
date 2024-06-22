@@ -1,4 +1,4 @@
-<span style="font-size:5.5em;">Shell.ai Hackathon 2024: Fleet Decarbonization Challenge</span>
+# Shell.ai Hackathon 2024: Fleet Decarbonization Challenge
 
 The Shell.ai Hackathon 2024 focusing on optimizing fleet decarbonization strategies in the mobility sector.
 
